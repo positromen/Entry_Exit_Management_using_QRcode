@@ -1,1 +1,0 @@
-# Entry_Exit_Management_using_QRcode
